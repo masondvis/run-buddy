@@ -334,19 +334,13 @@ section {
 }
  
 @media screen and (max-width: 980px) {
-    header h1 a {
-        color: tomato;
-    }
+    
 }
 
 @media screen and (max-width: 768px) {
-    header h1 {
-        font-size: 80px;
-    }
+    
 }
 
 @media screen and (max-width: 575px) {
-    header h1 {
-        font-size: 100px;
-    }
+    
 }
